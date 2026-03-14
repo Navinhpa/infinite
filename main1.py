@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-File "/mount/src/infinite/main1.py",
+File "C:\Users\NAVEENRAJ\Documents\Desktop\main1.py",
 Load data from CSV (Ensure the file has "HoursStudied" and "ExamScore" columns)
 df pd.read_csv("data.csv")
 Split data into Features (X) and Target (y)
